@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\bin\Debug\net8.0\livraria.exe
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\bin\Debug\net8.0\livraria.deps.json
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\bin\Debug\net8.0\livraria.runtimeconfig.json
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\bin\Debug\net8.0\livraria.dll
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\bin\Debug\net8.0\livraria.pdb
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\livraria.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\livraria.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\livraria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\livraria.sourcelink.json
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\livraria.dll
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\refint\livraria.dll
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\livraria.pdb
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\livraria.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Tazercraft\Biblioteca-\livraria\obj\Debug\net8.0\ref\livraria.dll
